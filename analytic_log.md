@@ -1,0 +1,8 @@
+- Try to find patterns between airports and delays
+  - Does not seem to be any larger ones
+- Try to find pattern between delay and day of week.
+  - Average delay low on tues, wednes, sunday, very low saturday
+  - Pattern disapears when only looking at delayed flights
+- Try to find pattern between day and cancelled flights
+  - Clear pattern that many flights are delayed monday, tuesday, sunday
+  - 
